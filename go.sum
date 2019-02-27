@@ -1,4 +1,6 @@
 github.com/tythe-protocol/z_test2 v0.0.0-20190209085012-7a77ae91ad6e h1:eU6ZWNKWpMiWTEtfH/HQiA7+7vvQ68rBacrYlcAsHuc=
 github.com/tythe-protocol/z_test2 v0.0.0-20190209085012-7a77ae91ad6e/go.mod h1:l8+E4DecfQW5xjBOdV4t8JS1EZcmedVqU+fxOm5S9uE=
+github.com/tythe-protocol/z_test2 v0.0.0-20190227200607-50b0f5006051 h1:YzZgVwtLRqmH2BQ3D2hmFpvXrd4AEdrc384D36tfLqc=
+github.com/tythe-protocol/z_test2 v0.0.0-20190227200607-50b0f5006051/go.mod h1:l8+E4DecfQW5xjBOdV4t8JS1EZcmedVqU+fxOm5S9uE=
 github.com/tythe-protocol/z_test3 v0.0.0-20190210063652-bd9f3ddaebfa h1:IsqGttGrvS5g9ri5La1uxyk8OCSzmT9iWuKPiMCsYcE=
 github.com/tythe-protocol/z_test3 v0.0.0-20190210063652-bd9f3ddaebfa/go.mod h1:GsXViAvTJ7Ebi4zzUcPwrHI4YvKOmzpWsm5NgaDa1Rc=
