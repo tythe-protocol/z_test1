@@ -1,7 +1,7 @@
 github.com/tythe-protocol/z_test2 v0.0.0-20190228001208-49bc46c8d347 h1:b6f6CmFp/twiBQzi/7XkqaR8B7WyROyhmeKiJdkjJ00=
 github.com/tythe-protocol/z_test2 v0.0.0-20190228001208-49bc46c8d347/go.mod h1:l8+E4DecfQW5xjBOdV4t8JS1EZcmedVqU+fxOm5S9uE=
-github.com/tythe-protocol/z_test3 v0.0.0-20190301223821-08653114aa0d h1:v7ZAo5Xr0gEnTMWUFHRB/hiCJTAYUOMpxYWbEwIozeY=
-github.com/tythe-protocol/z_test3 v0.0.0-20190301223821-08653114aa0d/go.mod h1:p0jVfmwCUUSlNrdTUKLnIJ1/oJAEWxDvdGbaFKfrWZc=
+github.com/tythe-protocol/z_test2 v0.0.0-20190302165659-20486e8f8115 h1:VWqJiseTBALemwwqdb6GO4Zj850btPvIkMiXhBVGMGE=
+github.com/tythe-protocol/z_test2 v0.0.0-20190302165659-20486e8f8115/go.mod h1:l8+E4DecfQW5xjBOdV4t8JS1EZcmedVqU+fxOm5S9uE=
 github.com/tythe-protocol/z_test3 v0.0.0-20190302162115-7761d62cfc4b h1:RB6kJ8DAK8A5xh0az1Nd9nPcHZrMj5khCCtA1rTiOtw=
 github.com/tythe-protocol/z_test3 v0.0.0-20190302162115-7761d62cfc4b/go.mod h1:7N/tYw3Ae1aNqoZjDRrjWmeCD2iotQDOx0puw3JbYp0=
 github.com/tythe-protocol/z_test4 v0.0.0-20190301223648-41180ef412f2 h1:5qiGpQCs7d/XfLoN2fFL/7hhxb9QZDl5Q8+uAzxAmlI=
